@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode & PyCharm settings
+.vscode/
+.idea/
+
+# Python environments
+*.env
+*.venv
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# FastAPI static/media uploads
+app/static/uploads/
+
+# Database files (optional)
+*.sqlite3
+*.db
