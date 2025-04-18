@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+jinja2
+fastapi[all]
+uvicorn
+sqlalchemy
+python-multipart
+jinja2
+passlib[bcrypt]
